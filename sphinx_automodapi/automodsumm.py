@@ -248,6 +248,8 @@ class Automoddiagram(InheritanceDiagram):
 
 # <---------------------automodsumm generation stuff-------------------------->
 def process_automodsumm_generation(app):
+    print('CALL AUTOMODSUMM')
+    asdfdasfsafdasfdasfasdfasdfsafdsa
     env = app.builder.env
 
     filestosearch = []
